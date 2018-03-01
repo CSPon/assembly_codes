@@ -10,6 +10,9 @@ Order I wrote these codes
 3. load_and_view
 4. branch
 5. read_input
+6. proc_call
+7. proc_call_args
+8. read_string
 ---
 
 Unless otherwise specified in the comment section, assume  
