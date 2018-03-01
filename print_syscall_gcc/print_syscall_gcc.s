@@ -1,6 +1,5 @@
 /* Prints to screen. This one uses gcc to compile	*/
 /* To compile: gcc -w print_syscall_gcc.s -o print	*/
-/* To load and execute: ld -o print print.o		*/
 /* This one looks same as print_syscall.s but this one	*/
 /* uses C's main function as entry point.		*/
 
