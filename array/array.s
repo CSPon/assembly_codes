@@ -48,6 +48,7 @@ OUTPUT:
 	LDR	R0, =out_str	@ Send string memory pointer to R0
 	BL	printf		@ Call printf
 
+	@ Similar to STMDB, LDMIA will load multiple value to registers, IA will Increment After reading value from memory address
 	LDMIA	SP!, {R0-R2}
 
 	ADD	R0, R0, #1
