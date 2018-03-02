@@ -13,6 +13,7 @@ Order I wrote these codes
 6. proc_call
 7. proc_call_args
 8. read_string
+9. array
 ---
 
 Unless otherwise specified in the comment section, assume  
